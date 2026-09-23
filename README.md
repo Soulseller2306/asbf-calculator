@@ -48,7 +48,3 @@ npm run test:unit
 ```sh
 npm run lint
 ```
-
-=======
-
-# asbf-calculator
